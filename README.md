@@ -31,7 +31,10 @@ Our goal is to inspire and empower bartenders of all levels by providing a platf
 
 ## Activity Diagrams
 UML diagrams:
+As a drink lover, I want a platform with a variety of drink recipes so that I can learn and experiment with new cocktails.
 ![As a drink lover, I want a platform with a variety of drink recipes so that I can learn and experiment with new cocktails.](IMG_0514.jpg)
+
+As a convenience-seeker, I want integrated alcohol purchasing options so that I can easily buy premium spirits and ingredients directly through the app.
 ![As a convenience-seeker, I want integrated alcohol purchasing options so that I can easily buy premium spirits and ingredients directly through the app.](IMG_0515.jpg)
 
 Wireframe diagram:
