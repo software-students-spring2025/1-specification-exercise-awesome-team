@@ -41,4 +41,4 @@ Wireframe diagram:
 [Wireframe for all pages](<awesome_team.pdf>)
 
 ## Clickable Prototype
-https://www.figma.com/proto/ApePhMPspYMmIUGrTxK2cV/awesome-team-(Community)?node-id=1-2&p=f&t=MCrD2hwNv761G9QI-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
+https://www.figma.com/proto/9l0B5hewC1tmkfVBflwAlk/awesome-team-(Community)?node-id=48-84&p=f&t=rIoxKsX0fURvABIt-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
