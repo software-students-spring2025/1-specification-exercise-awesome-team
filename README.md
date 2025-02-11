@@ -10,7 +10,7 @@ Warren Wu https://github.com/W0rren12
 Harry Yu:
 -Need basic bartending knowledge for self-study
 -Zero or low fee cost
--Shipping could be dangerous for alcohol bottles
+-Shipping could be damage alcohol bottles
 
 ## Product Vision Statement
 Our goal is to inspire and empower bartenders of all levels by providing a platform with expert tutorials, creative recipes, and a marketplace for premium spirits.
@@ -35,4 +35,4 @@ UML diagrams:
 ![As a convenience-seeker, I want integrated alcohol purchasing options so that I can easily buy premium spirits and ingredients directly through the app.](IMG_0515.jpg)
 
 ## Clickable Prototype
-https://www.figma.com/proto/90FN4zLkyIlpJ8ri1i568P/awesome-team-(Community)?node-id=1-2&p=f&t=BLHn6qfwCg37e4Xc-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
+https://www.figma.com/proto/ApePhMPspYMmIUGrTxK2cV/awesome-team-(Community)?node-id=1-2&p=f&t=MCrD2hwNv761G9QI-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
