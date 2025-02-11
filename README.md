@@ -34,5 +34,8 @@ UML diagrams:
 ![As a drink lover, I want a platform with a variety of drink recipes so that I can learn and experiment with new cocktails.](IMG_0514.jpg)
 ![As a convenience-seeker, I want integrated alcohol purchasing options so that I can easily buy premium spirits and ingredients directly through the app.](IMG_0515.jpg)
 
+Wireframe diagram:
+[Wireframe for all pages](<awesome team.pdf>)
+
 ## Clickable Prototype
 https://www.figma.com/proto/ApePhMPspYMmIUGrTxK2cV/awesome-team-(Community)?node-id=1-2&p=f&t=MCrD2hwNv761G9QI-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
