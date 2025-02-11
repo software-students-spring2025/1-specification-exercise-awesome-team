@@ -7,8 +7,6 @@ A little exercise to get started with the specification phase of the software de
 Tim Yan https://github.com/T1mmmmm
 
 ## Stakeholders
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 Harry Yu:
 -Need basic bartending knowledge for self-study
 -Zero or low fee cost
@@ -19,7 +17,7 @@ Our goal is to inspire and empower bartenders of all levels by providing a platf
 
 ## User Requirements
 1. As a drink lover, I want a platform with a variety of drink recipes so that I can learn and experiment with new cocktails.
-2. As a drink lover, I want a community forum to discuss techniques and share tips so that I can gain insights from fellow enthusiasts without expensive classes.
+2. As a drink lover, I want to discuss techniques and share tips so that I can gain insights from fellow enthusiasts without expensive classes.
 3. As a budget-conscious learner, I want affordable access to professional bartending techniques so that I can improve my skills without breaking the bank.
 4. As an aspiring home bartender, I want step-by-step tutorials so that I can confidently prepare drinks for my friends and family.
 5. As a curious mixologist, I want expert-curated content so that I can continuously refine and expand my craft.
@@ -32,8 +30,9 @@ Our goal is to inspire and empower bartenders of all levels by providing a platf
 12. As a busy user, I want the ability to save my favorite recipes and generate shopping lists so that I can easily prepare for my next cocktail night.
 
 ## Activity Diagrams
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+UML diagrams:
+![As a drink lover, I want a platform with a variety of drink recipes so that I can learn and experiment with new cocktails.](IMG_0514.jpg)
+![As a convenience-seeker, I want integrated alcohol purchasing options so that I can easily buy premium spirits and ingredients directly through the app.](IMG_0515.jpg)
 
 ## Clickable Prototype
 
