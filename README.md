@@ -3,8 +3,8 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
-
 Tim Yan https://github.com/T1mmmmm
+Warren Wu https://github.com/W0rren12
 
 ## Stakeholders
 Harry Yu:
@@ -35,6 +35,4 @@ UML diagrams:
 ![As a convenience-seeker, I want integrated alcohol purchasing options so that I can easily buy premium spirits and ingredients directly through the app.](IMG_0515.jpg)
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
-https://www.figma.com/proto/7hxT981IQAfJ7oPiJrZG1y/awesome-team?node-id=0-1&t=yTtUZ93MpBsS5nTR-1
+https://www.figma.com/proto/90FN4zLkyIlpJ8ri1i568P/awesome-team-(Community)?node-id=1-2&p=f&t=BLHn6qfwCg37e4Xc-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
