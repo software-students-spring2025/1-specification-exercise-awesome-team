@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Tim Yan https://github.com/T1mmmmm
 
 ## Stakeholders
 
@@ -25,3 +25,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/design/7hxT981IQAfJ7oPiJrZG1y/awesome-team?node-id=0-1&p=f&t=00otfVki4uYQ3lXK-0
